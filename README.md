@@ -5,11 +5,11 @@
 Hazel is primarily an early-stage interactive application and rendering engine for Windows. Currently not much is implemented, however (almost) everything inside this repository is available here as open source and ready for collaboration.
 
 ## Getting Started
-Visual Studio 2017 or 2019 is recommended, Hazel is officially untested on other development environments whilst we focus on a Windows build.
+Visual Studio 2019 is recommended, Hazel is officially untested on other development environments whilst we focus on a Windows build.
 
 You can clone the repository to a local destination using git:
 
-`git clone --recursive https://github.com/Starlord-1/Hazel`
+`git clone --recursive https://gitlab.com/j-m-harrison/Hazel`
 
 Make sure that you do a `--recursive` clone to fetch all of the submodules!
 
